@@ -22,7 +22,7 @@ Python (Standalone implementation for now)
 
 >> Installation
 > Clone the repository:
-git clone https://github.com/yourusername/alarm-tool.git
+git clone https://github.com/divine-akata/alarm-tool.git
 cd alarm-tool
 
 > Run the script:
